@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Messages.cpp">
+    <ClCompile Include="Parser\Parser.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
