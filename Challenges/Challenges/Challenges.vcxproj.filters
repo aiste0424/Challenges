@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Pointers and Structs NF\PointersAndStructs.cpp">
+    <ClCompile Include="TheHangman.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
