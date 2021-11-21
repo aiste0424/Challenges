@@ -16,13 +16,11 @@ int main()
 	void Divide(float num1, float num2);
 	void Remainder(float num1, float num2);
 	
-
 	while (isAppRunning == true)
 	{
 		std::cout << "\nType in the first number: ";
 		std::cin >> num1;
 		num1 = CheckingCorrectVariable(num1);
-		
 
 		std::cout << "Type in the second number: ";
 		std::cin >> num2;

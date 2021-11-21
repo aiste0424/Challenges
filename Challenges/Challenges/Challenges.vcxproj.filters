@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Calculator\Calculator.cpp">
+    <ClCompile Include="Pointers and Structs NF\PointersAndStructs.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
