@@ -19,6 +19,7 @@ int main()
 	Triangle(maxRows);
 	Diamond(maxRows);
 
+	system("pause");
 	return 0;
 }
 
